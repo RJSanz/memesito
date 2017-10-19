@@ -10,6 +10,7 @@ const obj = {
   email: 'jykp_er@hotmail.com'
 }
 console.log(obj.email);
+console.log(obj.nombre);
 
 // console.log(hola())
 // console.log(2+2)
